@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "XD-Server",
+            "resource": "SS_DC_Whitelsit",
+            "ip": "103.22.182.102",
+            "version": "1.0.0"
+        },
+        {
+            "name": "My-SS",
+            "resource": "SS_DC_Whitelsit",
+            "ip": "110.169.156.42",
+            "version": "1.0.0"
+        }
+    ]
+}

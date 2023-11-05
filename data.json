@@ -9,7 +9,7 @@
         {
             "name": "My-SS",
             "resource": "SS_DC_Whitelist",
-            "ip": "110.169.157.27",
+            "ip": "110.169.157.212",
             "version": "1.0.0"
         }
     ]

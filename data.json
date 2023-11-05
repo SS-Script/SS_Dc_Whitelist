@@ -1,16 +1,15 @@
 {
+    "version": "1.0.0",
     "data": [
         {
             "name": "XD-Server",
             "resource": "SS_DC_Whitelist",
-            "ip": "103.22.182.102",
-            "version": "1.0.0"
+            "ip": "103.22.182.102"
         },
         {
             "name": "My-SS",
             "resource": "SS_DC_Whitelist",
-            "ip": "110.169.157.212",
-            "version": "1.0.0"
+            "ip": "110.169.157.212"
         }
     ]
 }
